@@ -15,7 +15,7 @@
 	- For example: `<h1> is a heading`
 - HTML tags must be closed 
 	- For example: `<h1> This is heading 1 </h1>`
-	- `<h2> This is heading </h2>
+	- `<h2> This is heading </h2>`
 
 ### Headings
 
