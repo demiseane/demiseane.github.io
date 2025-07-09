@@ -19,7 +19,7 @@
 
 ### Headings
 
-- Use <h1>, <h2>, <h3>, etc.
+- Use `<h1>`, `<h2>`, `<h3>`, etc.
 
 ### Paragraphs
 
